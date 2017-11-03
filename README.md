@@ -15,5 +15,6 @@ Although the training is still under development, the expected content would be:
 - Part 9 - Supervised Learning (Convolutional Neural Network), Batch Normalization, Dropout, Skip connections
 - Part 10 - Unsupervised Learning (Kmeans), Clustering, Anomaly detection
 - Part 11 - Unsupervised Learning (Autoencoders), Generative networks
-- Part 12 - RNN, LTSM?
-- Part 13 - 
+- Part 12 - RNN, LTSM, Embedding???
+- Part 13 - Reinforcement Learning???
+- Part 14 - Bayesian Deep Learning???
