@@ -14,7 +14,7 @@ Although the training is still under development, the expected content would be:
 1. Supervised Learning (Neural Network), Introduction
 1. Supervised Learning (Neural Network), Architecture, Initialization, Activations (Sigmoid, tanh, ReLU, etc), Regularization (including Dropout), Batch Normalization, Loss functions, Optimization (SGD, momentum, learning rate, etc)
 1. Supervised Learning (Convolutional Neural Network), Introduction, R-CNN
-1. Supervised Leraning (Deep Neural Network), Skip connections (Residual Networks), Transfer learning
+1. Supervised Learning (Deep Neural Network), Skip connections (Residual Networks), Transfer learning
 1. Unsupervised Learning (Kmeans), Clustering, Anomaly detection
 1. Unsupervised Learning (Autoencoders), Representation learning, Generative networks
 1. RNN, LTSM, Embedding???
