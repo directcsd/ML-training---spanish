@@ -12,7 +12,7 @@ Although the training is still under development, the expected content would be:
 1. Supervised Learning (Decision Trees), Handling Underfitting/Overfitting
 1. Supervised Learning (Random Forests), Ensembles (Bagging, Boosting, Stacking)
 1. Supervised Learning (Neural Network), Introduction
-1. Supervised Learning (Neural Network), Learning (SGD, momentum, learning rate, etc), Initialization, Activations (Sigmoid, tanh, ReLU, etc), Regularization (including Dropout), Batch Normalization, Loss functions
+1. Supervised Learning (Neural Network), Learning (SGD, momentum, learning rate, etc), Loss functions, Initialization, Activations (Sigmoid, tanh, ReLU, etc), Regularization (including Dropout), Batch Normalization
 1. Supervised Learning (Convolutional Neural Network), Introduction, R-CNN
 1. Supervised Learning (Deep Neural Network), Skip connections (Residual Networks), Transfer learning
 1. Unsupervised Learning (Kmeans), Clustering, Anomaly detection
